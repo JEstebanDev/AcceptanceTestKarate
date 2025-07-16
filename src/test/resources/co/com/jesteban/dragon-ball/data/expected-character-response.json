@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "Vegeta",
+  "ki": "#string",
+  "maxKi": "#string",
+  "race": "Saiyan",
+  "gender": "Male",
+  "description": "#string",
+  "image": "#string",
+  "affiliation": "#string",
+  "deletedAt": null
+}

@@ -1,0 +1,5 @@
+{
+  "message": "Planet ID not found",
+  "error": "Bad Request",
+  "statusCode": 400
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "name": "Goku",
+  "ki": "#string",
+  "maxKi": "#string",
+  "race": "Saiyan",
+  "gender": "Male",
+  "description": "#string",
+  "image": "#string",
+  "affiliation": "Z Fighter",
+  "deletedAt": null,
+  "originPlanet": {
+    "id": 3,
+    "name": "Vegeta",
+    "isDestroyed": true,
+    "description": "#string",
+    "image": "#string",
+    "deletedAt": "#null"
+  },
+  "transformations": "#array"
+}
